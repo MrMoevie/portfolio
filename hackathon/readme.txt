@@ -1,0 +1,3 @@
+in deze folder zit een project dat ik heb gemaakt samen met 1 ander persoon tijdens hackathon, dit was een evenement waarbij wij in een paar dagen alleen op school mochten blijven en hier dus ook moesten slapen. 
+Het meeste van de code in dit project is geschreven op (bijna) geen slaap en tijdsdruk.
+Deze game is dus ook niet persé een goede representatie van mijn coding skills maar is hier meer om te delen dat ik zo'n soort experience heb gehad.
